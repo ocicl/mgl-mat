@@ -2,9 +2,8 @@
 
 MAT is library for working with multi-dimensional arrays which supports efficient interfacing to foreign and CUDA code. BLAS and CUBLAS bindings are available.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/melisgl/mgl-mat.git   |
-| commit  | 94a6351  |
-| systems | mgl-mat |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------|
+| source  | git:https://github.com/melisgl/mgl-mat.git |
+| commit  | 22af819                                    |
+| systems | mgl-mat                                    |
+|---------+--------------------------------------------|
