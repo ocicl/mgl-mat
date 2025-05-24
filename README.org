@@ -4,6 +4,6 @@ MAT is library for working with multi-dimensional arrays which supports efficien
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/melisgl/mgl-mat.git |
-| commit  | 8f980b3                                    |
+| commit  | 391c9b6                                    |
 | systems | mgl-mat                                    |
 |---------+--------------------------------------------|
